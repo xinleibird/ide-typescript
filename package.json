@@ -49,8 +49,8 @@
     }
   },
   "dependencies": {
-    "atom-languageclient": "0.9.7",
-    "javascript-typescript-langserver": "^2.7.0"
+    "atom-languageclient": "0.9.9",
+    "javascript-typescript-langserver": "^2.11.2"
   },
   "enhancedScopes": [
     "source.ts",
